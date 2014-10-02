@@ -1,4 +1,4 @@
-ooundary RabbitMQ Plugin
+Boundary RabbitMQ Plugin
 =======================
 
 Boundary RabbitMQ plugin extracts key performance metrics from an instance of RabbitMQ instances
